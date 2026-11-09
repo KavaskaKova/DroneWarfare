@@ -1,0 +1,7 @@
+"DroneWarfare"
+{
+    "base"          "base"
+    "title"         "DroneWarfare"
+    "maps"          ""
+    "menusystem"    "1"
+}

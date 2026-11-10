@@ -2,6 +2,6 @@
 {
     "base"          "base"
     "title"         "DroneWarfare"
-    "maps"          ""
+    "maps"          "^dw_"
     "menusystem"    "1"
 }

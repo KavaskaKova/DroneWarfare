@@ -27,6 +27,12 @@ DW.Config.Drones = {
         description = "Дрон на оптоволокне"
     },
     {
+        class = "sw_sun",
+        name = "Перехватчик Дронов",
+        price = 650,
+        description = "Перехватчик Дронов в небе"
+    },
+    {
         class = "sw_molniya",
         name = "Гроза-1",
         price = 1300,
@@ -61,6 +67,7 @@ DW.Config.TargetRewards = {
 
     ["sw_ural4320_troop"] = 450,
     ["sw_ural4320"] = 450,
+    ["sw_gr_per"] = 600,
     ["sw_leo2a4"] = 2300
 }
 
